@@ -57,3 +57,7 @@ I had a really great time this summer working on building `xsparse`. I would lik
 I would like to thank my mentor, [Hameer Abbasi](https://github.com/hameerabbasi) for always being there to answer all my questions, even the silliest of them! The amount of things I've learnt from my mentor in this short period of time is invaluable, to say the least.
 
 The best part about GSoC is that every step is a challenge, and how you learn to overcome these challenges with the help of amazing people!
+
+## Follow `xsparse`
+
+You can follow the work done on `xsparse` here : https://github.com/hameerabbasi/xsparse
