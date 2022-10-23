@@ -1,4 +1,4 @@
-# Google Summer Of Code - `xsparse`
+# Google Summer Of Code 2022 - `xsparse`
 
 ## Overview of xsparse
 
